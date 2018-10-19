@@ -1,14 +1,4 @@
-hello world 
-To run the jenkins pipeline job
-to share the data
-gsgdgfhghdgiohjiosljg;lfv;oikgdfjg
-\gjiskjif;oskgp\fdzjkkvp
-vk;zfvk;oxdfgj;of;o
-   
-   
-   
-   
-   pipeline {
+pipeline {
     agent any
 
     stages {
